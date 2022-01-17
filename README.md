@@ -7,7 +7,7 @@ Threads: 500 (Depends on PC's processing speed)
 
 Retry: 1
 
-Delay: 1 (Turn this down for when using geolocation you may be rate limited.)
+Delay: 1 (Turn this up for when using geolocation you may be rate limited.)
 
 Timeout: 1
 
